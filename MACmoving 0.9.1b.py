@@ -13,6 +13,7 @@ except:
 switch = input("Enter core switch: ")
 # -------------------------------- input --------------------------------
 login = input("Enter login: ")
+# -------------------------------- input --------------------------------
 password = getpass.getpass("Enter password: ")
 # -------------------------------- input --------------------------------
 
