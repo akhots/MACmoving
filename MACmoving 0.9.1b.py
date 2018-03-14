@@ -12,8 +12,7 @@ except:
 #switch = "172.30.29.1"
 switch = input("Enter core switch: ")
 # -------------------------------- input --------------------------------
-login = "akhotsyanovskiy"
-#login = input("Enter login: ")
+login = input("Enter login: ")
 password = getpass.getpass("Enter password: ")
 # -------------------------------- input --------------------------------
 
