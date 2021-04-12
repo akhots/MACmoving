@@ -10,7 +10,6 @@ except:
 	input('\nPress Enter to exit...')
 	quit()
 
-#switch = "172.30.29.1"
 switch = input("Enter core switch: ")
 # -------------------------------- input --------------------------------
 login = input("Enter login: ")
